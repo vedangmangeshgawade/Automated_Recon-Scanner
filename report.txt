@@ -1,0 +1,17 @@
+=== Security Scan Report ===
+Target: vedang.com
+
+DNS Info:
+IP Address: 24.5.250.110
+
+Technology Detection:
+Technology: Detection failed
+
+Security Headers:
+Error: Header check failed
+
+Open Ports: []
+XSS Test: XSS test failed
+SQL Injection Test: SQLi test failed
+
+=== End of Report ===
